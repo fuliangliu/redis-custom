@@ -1,0 +1,6 @@
+adlist 双向链表
+dict hash表
+intset 支持整数比特压缩的有序数组
+sds 字符串实现, 增加了字符串header
+ziplist 压缩的双向链表
+zipmap
